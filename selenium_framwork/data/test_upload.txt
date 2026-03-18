@@ -1,0 +1,6 @@
+Selenium Automation Test
+========================
+This file is used by TC02 (File Upload) test.
+It is a dummy file to demonstrate upload functionality.
+
+File content does not matter for the test - only the file itself matters.
